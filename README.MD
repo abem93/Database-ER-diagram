@@ -62,7 +62,7 @@ Entities:
 
 Task: Develop an ER diagram showing how a customer can rent multiple cars over time. The "Rental" entity serves as an intermediary, linking customers with cars and capturing details of each rental transaction.
 
-<img src="./Screenshots/" alt="Exercise " width="600"/>
+<img src="./Screenshots/Exercise4.png" alt="Exercise 4" width="600"/>
 
 <br>
 <br>
@@ -83,7 +83,7 @@ To establish a many-to-many relationship, we need to create a third table to lin
 Task: Show how students can enroll in multiple courses, with courses having multiple students.
 
 
-<img src="./Screenshots/" alt="Exercise " width="600"/>
+<img src="./Screenshots/Exercise5.png" alt="Exercise 5" width="600"/>
 
 ## Exercise 6: Work
 
@@ -100,4 +100,4 @@ Optional
 Revisit the project you've worked on in the Front End Cohort and design an entity relationship diagram for the database you've created.
 
 
-<img src="./Screenshots/" alt="Exercise " width="600"/>
+<img src="./Screenshots/Exercise6.png" alt="Exercise 6" width="600"/>
